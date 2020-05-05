@@ -9,8 +9,5 @@ end
 binding.pry
 
 def not_safe?(speed)
-	
+
 end
-	
-
-
